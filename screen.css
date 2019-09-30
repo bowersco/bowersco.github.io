@@ -1,8 +1,4 @@
 
-h1 {
-  font-size: 8em;
-  color: #ff69b4;
-}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -28,6 +24,11 @@ body {
 
 ol, ul {
   list-style: none; }
+
+  h1 {
+    font-size: 8em;
+    color: #ff69b4;
+  }
 
 table {
   border-collapse: collapse;
