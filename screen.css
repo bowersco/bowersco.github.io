@@ -69,20 +69,21 @@ a {
  {
   color: red;
   padding: 2em;
+  text-align: center
  }
 
  p#second
  {
    color: brown;
    padding: 2em;
-
+   text-align: center
  }
 
  p#third
  {
    color: purple;
    padding: 2em;
-
+   text-align: center
  }
 
  div#div1
