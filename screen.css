@@ -70,4 +70,17 @@ a {
   color: red;
   padding: 2em;
  }
- 
+
+ p#second
+ {
+   color: brown;
+   padding: 2em;
+
+ }
+
+ p#third
+ {
+   color: purple;
+   padding: 2em;
+
+ }
