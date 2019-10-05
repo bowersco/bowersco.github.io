@@ -34,6 +34,7 @@ h1 {
 
   h2 {
     align-items: center
+  
   }
 
 table {
@@ -104,4 +105,8 @@ a {
  {
    background-color: #2a2a2a
   }
-  
+ 
+  img
+  {
+    src:"C:\Users\columbus_james13\Desktop\Pics To Use\IMG_1600.JPG"; width:"300"; height:"300"; alt:""
+  }
