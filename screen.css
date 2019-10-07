@@ -30,9 +30,8 @@ h1 {
     color: #ff69b4;
     font-family: 'Audiowide', cursive;
     text-align: center;
+    background-image: url(snowman.jpg)
   }
-
-  h2
 
 table {
   border-collapse: collapse;
