@@ -70,21 +70,21 @@ a {
  p#first 
  {
   color: red;
-  padding: 2em;
+  
   text-align: center
  }
 
  p#second
  {
    color: brown;
-   padding: 2em;
+  
    text-align: center
  }
 
  p#third
  {
    color: purple;
-   padding: 2em;
+   
    text-align: center
  }
  
@@ -103,3 +103,6 @@ a {
    background-color: #2a2a2a
   }
  
+  body {
+    padding-top: 3.5rem;
+  }
