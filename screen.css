@@ -20,7 +20,8 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  line-height: 1; }
+    line-height: 1; 
+  }
 
 ol, ul {
   list-style: none; }
@@ -30,7 +31,7 @@ h1 {
     color: #ff69b4;
     font-family: 'Audiowide', cursive;
     text-align: center;
-    background-image: url(snowman.jpg)
+  
   }
 
 table {
@@ -56,15 +57,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: cursive;
-  color: #2a2a2a; }
+  }
 
 a {
-  color: #04f8c3; }
-  a:hover {
+  color: darkgreen; }
+ 
+a:hover {
     color: rebeccapurple; }
-
-#main {
-  padding: 50px; }
 
  p#first 
  {
@@ -94,12 +93,16 @@ a {
 
  div#main
  {
-   background-color: black
+  background-image: url();
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover
+ 
  }
 
  div
  {
-   background-color: #2a2a2a
+  background-color: aquamarine
   }
  
   body {
