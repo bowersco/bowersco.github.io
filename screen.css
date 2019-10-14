@@ -109,3 +109,8 @@ a:hover {
   body {
     padding-top: 3.5rem;
   }
+
+  img#alicepic
+  {
+    transform: rotate(90deg);
+  }
