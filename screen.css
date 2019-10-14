@@ -28,8 +28,8 @@ ol, ul {
 
 h1 {
     font-size: 7em;
-    color: #ff69b4;
-    font-family: 'Audiowide', cursive;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
     text-align: center;
   
   }
@@ -56,15 +56,19 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-  font-family: cursive;
+  font-family: 'Franklin Gothic Medium';
   }
 
 a {
-  color: darkgreen; }
+  color: black; }
  
 a:hover {
     color: rebeccapurple; }
 
+p#pics_me
+{
+ text-align: center;
+}
 
  p#first 
  {
@@ -92,20 +96,13 @@ a:hover {
    width: 33.33%
  }
 
- div#main
+ div 
  {
-  background-image: url();
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover
- 
+    background-color: firebrick;
+    border-style: inherit;
+    border-radius: 15px;
  }
 
- div
- {
-  background-color: aquamarine
-  }
- 
   body {
     padding-top: 3.5rem;
   }
